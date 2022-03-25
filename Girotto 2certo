@@ -3,14 +3,7 @@
 #include <time.h>
 #include <string.h>
 #include <conio.h>
-//    void inicio();
-//    void menu();
-//    void pergunta();
-//    void escolher();
-//    void escolher2();
-//    void escolher3();
-//    void pergunta2();
-//    void pergunta3();
+
 
 void main(){
 	inicio();
