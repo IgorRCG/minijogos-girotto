@@ -400,7 +400,7 @@ system ("pause");
 	                               if (v==1){                             
 					   t= t + (dad1+dad2);
 				        if((t+pontosjog1)<50){
-					     printf(" %s vai pontuar + %d", jogador1 , t);
+					     printf(" %s vai pontuar + %d\n", jogador1 , t);
 				      
 				              }else{
 				       	printf("\t %s VOCE GANHOU !!", jogador1);
