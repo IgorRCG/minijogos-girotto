@@ -361,7 +361,7 @@ system ("pause");
   	 	        printf("dado1 = %d e",dad1);
   	 	        getchar();
   	 	        dad2 = dado(aleat);
-  	 	        printf(" dado2 = %d", dad2);
+  	 	        printf(" dado2 = %d\n", dad2);
   	 	        getchar();
 //  	 	              j = (dad1 && dad2);
 //        	 	      q = (dad1>1 && dad2>1);
